@@ -39,7 +39,7 @@
   - **Bootstrap**: Framework CSS giúp thiết kế giao diện responsive.
 
 - **Cơ sở dữ liệu:**
-  - **MySQL**: Cơ sở dữ liệu quan hệ để lưu trữ dữ liệu công việc và ứng viên.
+  - **MariaDB**: Cơ sở dữ liệu quan hệ để lưu trữ dữ liệu công việc và ứng viên.
 
 
 ### Yêu cầu
