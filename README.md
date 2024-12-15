@@ -110,12 +110,3 @@ Danh sách ứng viên phù hợp với từng công việc.
 Giao diện gửi email thông báo hoặc lời mời ứng viên.
 
 ---
-
-## **Tính năng vượt trội và giao diện đẹp mắt, hiện đại!** ✨
-
-Ứng dụng không chỉ tối ưu hóa quy trình tuyển dụng mà còn mang đến trải nghiệm người dùng tuyệt vời, dễ sử dụng và đẹp mắt. Giao diện thân thiện giúp cả các công ty và ứng viên dễ dàng tương tác với hệ thống.
-
-**Tải ứng dụng ngay để trải nghiệm!** 🚀
-
----
-
